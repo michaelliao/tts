@@ -15,7 +15,7 @@ java -jar target/tts.jar
 # Usage
 
 1. Select region, voice and audio format;
-2. Paste your subscription key;
+2. Paste your subscription key ([How to apply subscription key](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/));
 3. Choose output directory;
 4. Click "Text To Speech";
 5. Click "Play".
